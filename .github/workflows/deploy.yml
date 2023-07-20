@@ -21,4 +21,3 @@ jobs:
         with:
           project: free-alligator-18 # the name of the project on Deno Deploy
           entrypoint: main.ts # the entrypoint to deploy
-          root: /
